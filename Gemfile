@@ -6,4 +6,4 @@ gem 'minitest', '5.8.4'
 gem 'minitest-reporters', '1.1.8'
 
 # bundle
-# bundle exec guard
+# bundle exec guard --notify false
