@@ -1,0 +1,7 @@
+*
+
+!Gemfile
+!Gemfile.lock
+!Guardfile
+!test_helper.rb
+!.gitignore
